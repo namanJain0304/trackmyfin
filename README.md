@@ -1,4 +1,4 @@
-  <h1>TrackMyFin</h1>
+<h1><a href="https://trackmyfin1.vercel.app/" target="_blank">TrackMyFin</a></h1>
   <p>An advanced expense tracking app designed for individuals, especially international students, to manage and visualize their financial transactions effectively.</p>
 
   <h2>🚀 Project Overview</h2>
