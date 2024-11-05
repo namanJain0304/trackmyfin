@@ -1,5 +1,4 @@
 import React, { useRef, useState } from 'react';
-import Navbar from './navbar';
 import { useNavigate } from 'react-router-dom';
 import { auth, provider } from '../firebase';
 import {
@@ -7,6 +6,8 @@ import {
   signInWithPopup,
 } from 'firebase/auth';
 import { toast } from 'react-toastify';
+import Navbar from './navbar';
+
 
 function Login() {
   let emailElement = useRef();
