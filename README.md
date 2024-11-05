@@ -28,7 +28,7 @@
     <li><strong>Additional Libraries</strong>: React Toastify, Moment.js, PapaParse</li>
   </ul>
 
-    <h3>Usage</h3>
+  <h3>Usage</h3>
   <ol>
     <li>Open the app and sign up/log in to start adding your income and expense transactions.</li>
     <li>Use the charts to get a visual breakdown of your finances.</li>
