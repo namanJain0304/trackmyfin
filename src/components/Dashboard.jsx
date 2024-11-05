@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import Cards from "./Cards";
 import moment from "moment";
 import { Card, Row } from "antd";

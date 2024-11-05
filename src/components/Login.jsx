@@ -6,7 +6,7 @@ import {
   signInWithPopup,
 } from 'firebase/auth';
 import { toast } from 'react-toastify';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 
 
 function Login() {

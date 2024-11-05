@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import { Link, useNavigate } from "react-router-dom";
 import { auth, provider, db } from "../firebase";
 import { createUserWithEmailAndPassword, signInWithPopup } from "firebase/auth";
